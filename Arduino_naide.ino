@@ -2,7 +2,7 @@
  * Nimetus: Harjutus 1
  * Kirjeldus: LED1 hämardamine vastavalt potele R1 ja nupule S1
  * Autor: Vahur Maask
- * Täiendaja: Franko Dosugov
+ * Täiendaja: Franko1000
  * Kuupäev: 24.11.2026
  * Versioon: v1.0
  */
